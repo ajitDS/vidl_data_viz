@@ -1,6 +1,10 @@
 # iPython Notebooks
 Here you can find all the notebooks used at the Vizualization workshop.
 
+For the **live version** of these notebooks, click here: 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master)
+
 ## Schedule
 <table>
     <tbody>
