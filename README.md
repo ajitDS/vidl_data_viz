@@ -10,6 +10,7 @@ __Collaborators__:
 A working group put on by the [Vanderbilt Institute for Digital Learning](https://www.vanderbilt.edu/vidl/) to talk about data visualization.
 
 **Location**:
+
 The workshop meets at Kirkland Hall. For directions: [https://goo.gl/maps/W17uyp6MF1t](https://goo.gl/maps/W17uyp6MF1t)
 
 # Live Version
