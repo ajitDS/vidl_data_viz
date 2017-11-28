@@ -14,4 +14,5 @@ For a complete list of the different methods and tutorial, you can visit: [https
 
 To launch the notebook, click the following button: 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master?filepath=2017_11%2F1.0-VC-Visualization_using-Seaborn_and_Matplotlib.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master?filepath=%2FiPython_Notebooks%2F2017_11%2F1.0-VC-Visualization_using-Seaborn_and_Matplotlib.ipynb)
+
