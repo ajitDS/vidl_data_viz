@@ -4,7 +4,7 @@ __Collaborators__:
 
 1. Kate Brady ([katherine.a.brady@Vanderbilt.Edu](mailto:katherine.a.brady@vanderbilt.edu))
 2. Victor Calderon ([victor.calderon@vanderbilt.edu](mailto:victor.calderon@vanderbilt.edu))
-3. Gayathri Narasimham ([gayathri.narasimham@Vanderbilt.Edu](mailtto:gayathri.narasimham@Vanderbilt.Edu))
+3. Gayathri Narasimham ([gayathri.narasimham@Vanderbilt.Edu](mailto:gayathri.narasimham@Vanderbilt.Edu))
 
 **Description**:
 
