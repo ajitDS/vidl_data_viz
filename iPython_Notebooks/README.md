@@ -27,7 +27,8 @@ For the **live version** of these notebooks, click here:
             <td>2</td>
             <td>Nov 29, 2017</td>
             <td>
-                <a href="https://github.com/kbrady/vidl_data_viz/blob/master/iPython_Notebooks/2017_11/1.0-VC-Visualization_using-Seaborn_and_Matplotlib.ipynb" target="_blank">iPython Notebook Month 2</a>
+                <a href="https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master?filepath=%2FiPython_Notebooks%2F2017_11%2F1.0-VC-Visualization_using-Seaborn_and_Matplotlib.ipynb" 
+                target="_blank">iPython Notebook Month 2</a>
                 <ul>
                     <li>Introduction to the <i>Seaborn</i> Library</li>
                 </ul>

@@ -8,5 +8,5 @@ dependencies:
   - numpy
   - pandas
   - scipy
-  - seaborn
+  - seaborn>=0.8.1
   - pip
