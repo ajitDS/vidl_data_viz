@@ -20,8 +20,6 @@ You can execute the iPython Notebooks in this repository by **clicking** the fol
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master)
 
-<<<<<<< HEAD
-
 ## Installing Environment & Dependencies
 
 To use the scripts in this repository, you must have _Anaconda_ installed on the systems that will be running the scripts. This will simplify the process of installing all the dependencies.
@@ -67,7 +65,7 @@ $:  make show-help
 ```
     source deactivate
 ```
-=======
+
 # Topics
 1. Sep - Tableau
 1. Oct - iPython Notebooks
