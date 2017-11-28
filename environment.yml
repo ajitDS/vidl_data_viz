@@ -1,0 +1,12 @@
+name: vidl_viz
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - pip
