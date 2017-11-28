@@ -16,6 +16,12 @@ The workshop meets at Kirkland Hall. For directions: [https://goo.gl/maps/W17uyp
 
 # Live Version
 
-You can execute the notebooks in this repository by **clicking** the following button:
+You can execute the iPython Notebooks in this repository by **clicking** the following button:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master)
+
+# Topics
+1. Sep - Tableau
+1. Oct - iPython Notebooks
+1. Nov - Seaborn
+1. Dec - Libraries for Text Visualization
