@@ -2,9 +2,9 @@
 
 __Collaborators__: 
 
-1. Kate Brady ([katherine.a.brady@Vanderbilt.Edu](mailto:katherine.a.brady@vanderbilt.edu))
+1. Kate Brady ([katherine.a.brady@vanderbilt.edu](mailto:katherine.a.brady@vanderbilt.edu))
 2. Victor Calderon ([victor.calderon@vanderbilt.edu](mailto:victor.calderon@vanderbilt.edu))
-3. Gayathri Narasimham ([gayathri.narasimham@Vanderbilt.Edu](mailtto:gayathri.narasimham@Vanderbilt.Edu))
+3. Gayathri Narasimham ([gayathri.narasimham@vanderbilt.edu](mailto:gayathri.narasimham@Vanderbilt.Edu))
 
 **Description**:
 
@@ -21,7 +21,7 @@ You can execute the iPython Notebooks in this repository by **clicking** the fol
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/vidl_data_viz/master)
 
 # Topics
-1. Sep - Tableau
+1. Sep - [Tableau](https://public.tableau.com/profile/atakan.okan#!/vizhome/Workshop_3/Dashboard1)
 1. Oct - iPython Notebooks
 1. Nov - Seaborn
 1. Dec - Libraries for Text Visualization
