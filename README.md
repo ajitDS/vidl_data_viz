@@ -73,4 +73,3 @@ $:  make show-help
 1. Oct - iPython Notebooks
 1. Nov - Seaborn
 1. Dec - Libraries for Text Visualization
->>>>>>> origin/master
