@@ -10,3 +10,5 @@ dependencies:
   - scipy
   - seaborn>=0.8.1
   - pip
+  - beautifulsoup4
+  - lxml
