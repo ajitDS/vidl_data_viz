@@ -2,6 +2,7 @@ name: vidl_viz
 
 channels:
   - defaults
+  - conda-forge
 
 dependencies:
   - python=3
@@ -10,5 +11,9 @@ dependencies:
   - scipy
   - seaborn>=0.8.1
   - pip
-  - beautifulsoup4
-  - lxml
+  - bokeh
+  - wordcloud
+  - missingno
+  - pydotplus
+  - shapely
+  - descartes
