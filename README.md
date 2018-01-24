@@ -73,3 +73,17 @@ $:  make show-help
 ```
     source deactivate
 ```
+
+### Trouble Shooting
+
+If you get an import error while running one of our notebooks, it may be because jupyter is not set up correctly in the environment.
+
+You can check your jupyter path by running the following command while the environment is __activated__:
+```
+which jupyter
+```
+The result should be a path which ends with `envs/vidl_viz/bin/jupyter`. If you don't see `vidl_viz` in the path, run:
+```
+conda install jupyter
+```
+Make sure the path is now correct by running `which jupyter` again.
