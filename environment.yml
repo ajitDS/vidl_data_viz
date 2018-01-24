@@ -17,3 +17,6 @@ dependencies:
   - pydotplus
   - shapely
   - descartes
+  - pip
+  - pip:
+    - graphviz
