@@ -38,7 +38,7 @@ For the **live version** of these notebooks, click here:
             <td>3</td>
             <td>Dec 06, 2017</td>
             <td>
-                <a href="https://github.com/kbrady/vidl_data_viz/blob/master/iPython_Notebooks/2017_12" target="_blank">iPython Notebook Month 3</a>
+                <a href="https://github.com/kbrady/vidl_data_viz/tree/master/iPython_Notebooks/2018_01" target="_blank">iPython Notebook Month 3</a>
                 <ul>
                     <li>Non-Numerical Visualizations in Python</li>
                 </ul>
