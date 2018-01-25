@@ -36,7 +36,7 @@ For the **live version** of these notebooks, click here:
         </tr>
         <tr>
             <td>3</td>
-            <td>Dec 06, 2017</td>
+            <td>Jan 24, 2018</td>
             <td>
                 <a href="https://github.com/kbrady/vidl_data_viz/tree/master/iPython_Notebooks/2018_01" target="_blank">iPython Notebook Month 3</a>
                 <ul>
