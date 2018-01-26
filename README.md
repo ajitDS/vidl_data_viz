@@ -19,6 +19,7 @@ The workshop meets at Kirkland Hall. For directions: [https://goo.gl/maps/W17uyp
 1. Oct - iPython Notebooks
 1. Nov - Seaborn
 1. Jan - Libraries for Non-Numerical Visualization
+1. Feb - R
 
 # Live Version
 

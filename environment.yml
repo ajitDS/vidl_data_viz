@@ -6,6 +6,7 @@ channels:
 
 dependencies:
   - python=3
+  - jupyter
   - numpy
   - pandas
   - scipy
@@ -18,3 +19,6 @@ dependencies:
   - shapely
   - descartes
   - graphviz
+  - r
+  - r-essentials
+  - r-ggally
