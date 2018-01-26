@@ -1,0 +1,121 @@
+religion,cohort,residence,gender,membership,count
+Protestant,Empire,rural,male,yes,66
+Protestant,Empire,rural,female,yes,1
+Catholic,Empire,rural,male,yes,22
+Catholic,Empire,rural,female,yes,0
+None,Empire,rural,male,yes,11
+None,Empire,rural,female,yes,3
+Protestant,Late Empire,rural,male,yes,153
+Protestant,Late Empire,rural,female,yes,14
+Catholic,Late Empire,rural,male,yes,62
+Catholic,Late Empire,rural,female,yes,9
+None,Late Empire,rural,male,yes,18
+None,Late Empire,rural,female,yes,4
+Protestant,Early Weimar,rural,male,yes,321
+Protestant,Early Weimar,rural,female,yes,11
+Catholic,Early Weimar,rural,male,yes,137
+Catholic,Early Weimar,rural,female,yes,33
+None,Early Weimar,rural,male,yes,20
+None,Early Weimar,rural,female,yes,0
+Protestant,Late Weimar,rural,male,yes,255
+Protestant,Late Weimar,rural,female,yes,36
+Catholic,Late Weimar,rural,male,yes,111
+Catholic,Late Weimar,rural,female,yes,20
+None,Late Weimar,rural,male,yes,20
+None,Late Weimar,rural,female,yes,20
+Protestant,Third Reich,rural,male,yes,44
+Protestant,Third Reich,rural,female,yes,22
+Catholic,Third Reich,rural,male,yes,19
+Catholic,Third Reich,rural,female,yes,36
+None,Third Reich,rural,male,yes,38
+None,Third Reich,rural,female,yes,24
+Protestant,Empire,suburban,male,yes,126
+Protestant,Empire,suburban,female,yes,2
+Catholic,Empire,suburban,male,yes,32
+Catholic,Empire,suburban,female,yes,0
+None,Empire,suburban,male,yes,8
+None,Empire,suburban,female,yes,0
+Protestant,Late Empire,suburban,male,yes,244
+Protestant,Late Empire,suburban,female,yes,44
+Catholic,Late Empire,suburban,male,yes,68
+Catholic,Late Empire,suburban,female,yes,4
+None,Late Empire,suburban,male,yes,25
+None,Late Empire,suburban,female,yes,0
+Protestant,Early Weimar,suburban,male,yes,299
+Protestant,Early Weimar,suburban,female,yes,54
+Catholic,Early Weimar,suburban,male,yes,104
+Catholic,Early Weimar,suburban,female,yes,14
+None,Early Weimar,suburban,male,yes,25
+None,Early Weimar,suburban,female,yes,15
+Protestant,Late Weimar,suburban,male,yes,186
+Protestant,Late Weimar,suburban,female,yes,34
+Catholic,Late Weimar,suburban,male,yes,74
+Catholic,Late Weimar,suburban,female,yes,7
+None,Late Weimar,suburban,male,yes,49
+None,Late Weimar,suburban,female,yes,20
+Protestant,Third Reich,suburban,male,yes,26
+Protestant,Third Reich,suburban,female,yes,32
+Catholic,Third Reich,suburban,male,yes,17
+Catholic,Third Reich,suburban,female,yes,18
+None,Third Reich,suburban,male,yes,13
+None,Third Reich,suburban,female,yes,14
+Protestant,Empire,rural,male,no,160
+Protestant,Empire,rural,female,no,12
+Catholic,Empire,rural,male,no,101
+Catholic,Empire,rural,female,no,36
+None,Empire,rural,male,no,72
+None,Empire,rural,female,no,12
+Protestant,Late Empire,rural,male,no,159
+Protestant,Late Empire,rural,female,no,46
+Catholic,Late Empire,rural,male,no,127
+Catholic,Late Empire,rural,female,no,82
+None,Late Empire,rural,male,no,74
+None,Late Empire,rural,female,no,24
+Protestant,Early Weimar,rural,male,no,277
+Protestant,Early Weimar,rural,female,no,90
+Catholic,Early Weimar,rural,male,no,189
+Catholic,Early Weimar,rural,female,no,171
+None,Early Weimar,rural,male,no,71
+None,Early Weimar,rural,female,no,43
+Protestant,Late Weimar,rural,male,no,200
+Protestant,Late Weimar,rural,female,no,92
+Catholic,Late Weimar,rural,male,no,158
+Catholic,Late Weimar,rural,female,no,128
+None,Late Weimar,rural,male,no,93
+None,Late Weimar,rural,female,no,96
+Protestant,Third Reich,rural,male,no,71
+Protestant,Third Reich,rural,female,no,147
+Catholic,Third Reich,rural,male,no,125
+Catholic,Third Reich,rural,female,no,213
+None,Third Reich,rural,male,no,192
+None,Third Reich,rural,female,no,253
+Protestant,Empire,suburban,male,no,363
+Protestant,Empire,suburban,female,no,155
+Catholic,Empire,suburban,male,no,184
+Catholic,Empire,suburban,female,no,73
+None,Empire,suburban,male,no,239
+None,Empire,suburban,female,no,93
+Protestant,Late Empire,suburban,male,no,501
+Protestant,Late Empire,suburban,female,no,318
+Catholic,Late Empire,suburban,male,no,314
+Catholic,Late Empire,suburban,female,no,193
+None,Late Empire,suburban,male,no,273
+None,Late Empire,suburban,female,no,59
+Protestant,Early Weimar,suburban,male,no,456
+Protestant,Early Weimar,suburban,female,no,344
+Catholic,Early Weimar,suburban,male,no,345
+Catholic,Early Weimar,suburban,female,no,274
+None,Early Weimar,suburban,male,no,201
+None,Early Weimar,suburban,female,no,114
+Protestant,Late Weimar,suburban,male,no,251
+Protestant,Late Weimar,suburban,female,no,314
+Catholic,Late Weimar,suburban,male,no,141
+Catholic,Late Weimar,suburban,female,no,211
+None,Late Weimar,suburban,male,no,264
+None,Late Weimar,suburban,female,no,288
+Protestant,Third Reich,suburban,male,no,61
+Protestant,Third Reich,suburban,female,no,256
+Catholic,Third Reich,suburban,male,no,70
+Catholic,Third Reich,suburban,female,no,192
+None,Third Reich,suburban,male,no,114
+None,Third Reich,suburban,female,no,307
